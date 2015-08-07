@@ -5,6 +5,7 @@ PRODUCT_COPY_FILES += \
 $(LOCAL_PATH)/system/bin/wpa_supplicant.conf:system/bin/wpa_supplicant.conf \
 $(LOCAL_PATH)/system/bin/wpa_supplicant_overlay.conf:system/bin/wpa_supplicant_overlay.conf \
 $(LOCAL_PATH)/system/etc/vold.fstab:system/etc/vold.fstab \
+$(LOCAL_PATH)/system/etc/powervr.ini:system/etc/powervr.ini \
 $(LOCAL_PATH)/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
 $(LOCAL_PATH)/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
 $(LOCAL_PATH)/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
