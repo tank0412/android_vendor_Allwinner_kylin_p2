@@ -1,6 +1,9 @@
 It is a device tree for onda V989.
 
-P.S. I got this error when i tried to compile AOSP Android 5.1 Lollipop from source:
-build/core/product_config.mk:231: *** device/onda/v989/aosp_v989.mk: malformed COPY_FILE "\". Stop.
+P.S. 08.08.2015 CM12 building was finished without any errors! It is a great news! 
+I think that all necessary files for booting is included.
+ 
+But i do not know how to flash it. (system & boot partitions)
+I am tried to compile zip archive for PhilZ Touch Recovery but it finished with fatal error.
 
 Guys, i need your help. Please pull request!
