@@ -24,7 +24,6 @@ $(LOCAL_PATH)/system/lib/libpower.so:system/lib/libpower.so \
 $(LOCAL_PATH)/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 $(LOCAL_PATH)/system/lib/hw/audio.primary.kylin.so:system/lib/hw/audio.primary.kylin.so \
 $(LOCAL_PATH)/system/lib/hw/camera.kylin.so:system/lib/hw/camera.kylin.so \
-$(LOCAL_PATH)/system/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
 $(LOCAL_PATH)/system/lib/hw/hwcomposer.kylin.so:system/lib/hw/hwcomposer.kylin.so \
 $(LOCAL_PATH)/system/lib/hw/sensors.kylin.so:system/lib/hw/sensors.kylin.so \
 $(LOCAL_PATH)/system/usr/idc/gt9xx.idc:system/usr/idc/gt9xx.idc \
