@@ -40,7 +40,7 @@ $(LOCAL_PATH)/system/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEG
 $(LOCAL_PATH)/system/lib/egl/libGLESv2_POWERVR_ROGUE.so:system/vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so \
 $(LOCAL_PATH)/system/lib/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
 $(LOCAL_PATH)/system/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
-$(LOCAL_PATH)/system/lib/hw/gralloc.sun9i.so:system/vendor/lib/hw/gralloc.sun9i.so \
+$(LOCAL_PATH)/system/lib/hw/gralloc.sun9i.so:system/vendor/lib/hw/gralloc.sun9i.so 
 
 
 
