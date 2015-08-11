@@ -30,7 +30,7 @@ $(LOCAL_PATH)/system/usr/idc/gt9xx.idc:system/usr/idc/gt9xx.idc \
 $(LOCAL_PATH)/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
 $(LOCAL_PATH)/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
 $(LOCAL_PATH)/system/usr/keylayout/sunxi-ir.kl:system/usr/keylayout/sunxi-ir.kl \
-$(LOCAL_PATH)/system/usr/keylayout/sunxi-keyboard.kl:system/usr/keylayout/sunxi-keyboard.kl 
+$(LOCAL_PATH)/system/usr/keylayout/sunxi-keyboard.kl:system/usr/keylayout/sunxi-keyboard.kl \
 
 #Using stock vendor folder
 
