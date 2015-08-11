@@ -31,9 +31,6 @@ $(LOCAL_PATH)/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
 $(LOCAL_PATH)/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
 $(LOCAL_PATH)/system/usr/keylayout/sunxi-ir.kl:system/usr/keylayout/sunxi-ir.kl \
 $(LOCAL_PATH)/system/usr/keylayout/sunxi-keyboard.kl:system/usr/keylayout/sunxi-keyboard.kl \
-
-#Using stock vendor folder
-
 $(LOCAL_PATH)/system/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so \
 $(LOCAL_PATH)/system/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so \
 $(LOCAL_PATH)/system/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so \
