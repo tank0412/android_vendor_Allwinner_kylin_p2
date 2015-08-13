@@ -34,7 +34,7 @@ $(LOCAL_PATH)/system/lib/hw/lights.kylin.so:system/lib/hw/lights.kylin.so \
 $(LOCAL_PATH)/system/lib/hw/hwcomposer.kylin.so:system/lib/hw/hwcomposer.kylin.so \
 $(LOCAL_PATH)/system/lib/hw/sensors.kylin.so:system/lib/hw/sensors.kylin.so \
 $(LOCAL_PATH)/system/lib/hw/keystore.kylin.so:system/lib/hw/keystore.kylin.so \
-$(LOCAL_PATH)/system/lib/hw/gralloc.sun9i.so:system/vendor/lib/hw/gralloc.sun9i.so 
+$(LOCAL_PATH)/system/lib/hw/gralloc.sun9i.so:system/vendor/lib/hw/gralloc.sun9i.so \
 $(LOCAL_PATH)/system/usr/idc/gt9xx.idc:system/usr/idc/gt9xx.idc \
 $(LOCAL_PATH)/system/usr/gsensor.cfg:system/usr/gsensor.cfg \
 $(LOCAL_PATH)/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
