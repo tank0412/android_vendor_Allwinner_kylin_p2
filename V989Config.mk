@@ -20,6 +20,7 @@ $(LOCAL_PATH)/system/lib/libGLESv1_CM.so:system/lib/libGLESv1_CM.so \
 $(LOCAL_PATH)/system/lib/libGLESv2.so:system/lib/libGLESv2.so \
 $(LOCAL_PATH)/system/lib/libGLESv3.so:system/lib/libGLESv3.so \
 $(LOCAL_PATH)/system/lib/libpower.so:system/lib/libpower.so \
+$(LOCAL_PATH)/system/lib/libOpenSLES.so:system/lib/libOpenSLES.so \
 $(LOCAL_PATH)/system/lib/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
 $(LOCAL_PATH)/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 $(LOCAL_PATH)/system/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
