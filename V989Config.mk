@@ -1,6 +1,7 @@
 LOCAL_PATH := vendor/onda/v989
 PRODUCT_COPY_FILES += \
 $(LOCAL_PATH)/system/bin/wpa_supplicant:system/bin/wpa_supplicant \
+$(LOCAL_PATH)/system/bin/pvrsrvctl:system/vendor/bin/pvrsrvctl \
 $(LOCAL_PATH)/system/etc/powervr.ini:system/etc/powervr.ini \
 $(LOCAL_PATH)/system/etc/camera.cfg:system/etc/camera.cfg \
 $(LOCAL_PATH)/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
@@ -28,6 +29,9 @@ $(LOCAL_PATH)/system/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
 $(LOCAL_PATH)/system/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
 $(LOCAL_PATH)/system/lib/libufwriter.so:system/vendor/lib/libufwriter.so \
 $(LOCAL_PATH)/system/lib/libusc.so:system/vendor/lib/libusc.so \
+$(LOCAL_PATH)/system/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
+$(LOCAL_PATH)/system/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
+$(LOCAL_PATH)/system/lib/liboclcompiler.so:system/vendor/lib/liboclcompiler.so \
 $(LOCAL_PATH)/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 $(LOCAL_PATH)/system/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
 $(LOCAL_PATH)/system/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so \
