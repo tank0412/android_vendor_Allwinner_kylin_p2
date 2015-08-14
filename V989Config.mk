@@ -67,7 +67,7 @@ $(LOCAL_PATH)/system/modules/sunxi-ir-tx.ko:system/vendor/modules/sunxi-ir-tx.ko
 $(LOCAL_PATH)/system/modules/sunxi-led.ko:system/vendor/modules/sunxi-led.ko \
 $(LOCAL_PATH)/system/modules/sunxi-vibrator.ko:system/vendor/modules/sunxi-vibrator.ko \
 $(LOCAL_PATH)/system/modules/videobuf-core.ko:system/vendor/modules/videobuf-core.ko \
-$(LOCAL_PATH)/system/modules/videobuf-dma-contig.ko:system/vendor/modules/videobuf-dma-contig.ko \
+$(LOCAL_PATH)/system/modules/videobuf-dma-contig.ko:system/vendor/modules/videobuf-dma-contig.ko 
 
 
 
