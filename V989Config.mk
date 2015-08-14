@@ -4,6 +4,9 @@ $(LOCAL_PATH)/system/bin/wpa_supplicant:system/bin/wpa_supplicant \
 $(LOCAL_PATH)/system/bin/pvrsrvctl:system/vendor/bin/pvrsrvctl \
 $(LOCAL_PATH)/system/etc/powervr.ini:system/etc/powervr.ini \
 $(LOCAL_PATH)/system/etc/camera.cfg:system/etc/camera.cfg \
+$(LOCAL_PATH)/system/etc/audio_policy.conf:system/etc/audio_policy.conf \
+$(LOCAL_PATH)/system/etc/phone_volume.conf:system/etc/phone_volume.conf \
+$(LOCAL_PATH)/system/etc/kylin_mb976a9_app:system/etc/kylin_mb976a9_app \
 $(LOCAL_PATH)/system/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
 $(LOCAL_PATH)/system/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
 $(LOCAL_PATH)/system/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
