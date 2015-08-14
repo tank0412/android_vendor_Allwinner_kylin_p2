@@ -22,6 +22,12 @@ $(LOCAL_PATH)/system/lib/libGLESv3.so:system/lib/libGLESv3.so \
 $(LOCAL_PATH)/system/lib/libpower.so:system/lib/libpower.so \
 $(LOCAL_PATH)/system/lib/libOpenSLES.so:system/lib/libOpenSLES.so \
 $(LOCAL_PATH)/system/lib/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
+$(LOCAL_PATH)/system/lib/libPVROCL.so:system/vendor/lib/libPVROCL.so \
+$(LOCAL_PATH)/system/lib/libPVRScopeServices.so:system/vendor/lib/libPVRScopeServices.so \
+$(LOCAL_PATH)/system/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
+$(LOCAL_PATH)/system/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
+$(LOCAL_PATH)/system/lib/libufwriter.so:system/vendor/lib/libufwriter.so \
+$(LOCAL_PATH)/system/lib/libusc.so:system/vendor/lib/libusc.so \
 $(LOCAL_PATH)/system/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
 $(LOCAL_PATH)/system/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
 $(LOCAL_PATH)/system/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so \
@@ -61,6 +67,7 @@ $(LOCAL_PATH)/system/modules/sunxi-ir-tx.ko:system/vendor/modules/sunxi-ir-tx.ko
 $(LOCAL_PATH)/system/modules/sunxi-led.ko:system/vendor/modules/sunxi-led.ko \
 $(LOCAL_PATH)/system/modules/sunxi-vibrator.ko:system/vendor/modules/sunxi-vibrator.ko \
 $(LOCAL_PATH)/system/modules/videobuf-core.ko:system/vendor/modules/videobuf-core.ko \
-$(LOCAL_PATH)/system/modules/videobuf-dma-contig.ko:system/vendor/modules/videobuf-dma-contig.ko 
+$(LOCAL_PATH)/system/modules/videobuf-dma-contig.ko:system/vendor/modules/videobuf-dma-contig.ko \
+
 
 
