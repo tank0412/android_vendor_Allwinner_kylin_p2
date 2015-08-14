@@ -40,7 +40,27 @@ $(LOCAL_PATH)/system/usr/gsensor.cfg:system/usr/gsensor.cfg \
 $(LOCAL_PATH)/system/usr/keylayout/AVRCP.kl:system/usr/keylayout/AVRCP.kl \
 $(LOCAL_PATH)/system/usr/keylayout/Generic.kl:system/usr/keylayout/Generic.kl \
 $(LOCAL_PATH)/system/usr/keylayout/sunxi-ir.kl:system/usr/keylayout/sunxi-ir.kl \
-$(LOCAL_PATH)/system/usr/keylayout/sunxi-keyboard.kl:system/usr/keylayout/sunxi-keyboard.kl 
-
+$(LOCAL_PATH)/system/usr/keylayout/sunxi-keyboard.kl:system/usr/keylayout/sunxi-keyboard.kl \
+$(LOCAL_PATH)/system/modules/gt9xx_ts.ko:system/vendor/modules/gt9xx_ts.ko \
+$(LOCAL_PATH)/system/modules/gt9xxf_ts.ko:system/vendor/modules/gt9xxf_ts.ko \
+$(LOCAL_PATH)/system/modules/gt9xxnew_ts.ko:system/vendor/modules/gt9xxnew_ts.ko \
+$(LOCAL_PATH)/system/modules/gt82x.ko:system/vendor/modules/gt82x.ko \
+$(LOCAL_PATH)/system/modules/gt818_ts.ko:system/vendor/modules/gt82x.ko \
+$(LOCAL_PATH)/system/modules/gt2005.ko:system/vendor/modules/gt2005.ko \
+$(LOCAL_PATH)/system/modules/lcd.ko:system/vendor/modules/lcd.ko \
+$(LOCAL_PATH)/system/modules/nand.ko:system/vendor/modules/nand.ko \
+$(LOCAL_PATH)/system/modules/nvram.txt:system/vendor/modules/nvram.txt \
+$(LOCAL_PATH)/system/modules/sunxi_dma_test.ko:system/vendor/modules/sunxi_dma_test.ko \
+$(LOCAL_PATH)/system/modules/sunxi_fd.ko:system/vendor/modules/sunxi_fd.ko \
+$(LOCAL_PATH)/system/modules/sunxi_gmac.ko:system/vendor/modules/sunxi_gmac.ko \
+$(LOCAL_PATH)/system/modules/sunxi_pinctrl_test.ko:system/vendor/modules/sunxi_pinctrl_test.ko \
+$(LOCAL_PATH)/system/modules/sunxi_schw.ko:system/vendor/modules/sunxi_schw.ko \
+$(LOCAL_PATH)/system/modules/sunxi_timer_test.ko:system/vendor/modules/sunxi_timer_test.ko \
+$(LOCAL_PATH)/system/modules/sunxi-ir-rx.ko:system/vendor/modules/sunxi-ir-rx.ko \
+$(LOCAL_PATH)/system/modules/sunxi-ir-tx.ko:system/vendor/modules/sunxi-ir-tx.ko \
+$(LOCAL_PATH)/system/modules/sunxi-led.ko:system/vendor/modules/sunxi-led.ko \
+$(LOCAL_PATH)/system/modules/sunxi-vibrator.ko:system/vendor/modules/sunxi-vibrator.ko \
+$(LOCAL_PATH)/system/modules/videobuf-core.ko:system/vendor/modules/videobuf-core.ko \
+$(LOCAL_PATH)/system/modules/videobuf-dma-contig.ko:system/vendor/modules/videobuf-dma-contig.ko 
 
 
