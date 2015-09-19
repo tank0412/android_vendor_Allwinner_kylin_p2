@@ -314,7 +314,6 @@ PRODUCT_COPY_FILES += \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/ss.ko:system/vendor/modules/ss.ko \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi-ir-rx.ko:system/vendor/modules/sunxi-ir-rx.ko \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi-ir-tx.ko:system/vendor/modules/sunxi-ir-tx.ko \
-	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi-led.ko:system/vendor/modules/sunxi-led.ko \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi-vibrator.ko:system/vendor/modules/sunxi-vibrator.ko \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi_dma_test.ko:system/vendor/modules/sunxi_dma_test.ko \
 	vendor/ONDA/kylin_mb976a9/system/vendor/modules/sunxi_fd.ko:system/vendor/modules/sunxi_fd.ko \
