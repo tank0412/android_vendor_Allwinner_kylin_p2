@@ -82,6 +82,11 @@ PRODUCT_COPY_FILES += \
 	vendor/ONDA/kylin_mb976a9/system/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
 	vendor/ONDA/kylin_mb976a9/system/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
 	vendor/ONDA/kylin_mb976a9/system/lib/libnativehelper.so:system/lib/libnativehelper.so \
+	vendor/ONDA/kylin_mb976a9/system/lib/libEGL.so:system/lib/libEGL.so \
+	vendor/ONDA/kylin_mb976a9/system/lib/libGLES_trace:system/lib/libGLES_trace \
+	vendor/ONDA/kylin_mb976a9/system/lib/libGLESv1_CM.so:system/lib/libGLESv1_CM.so \
+	vendor/ONDA/kylin_mb976a9/system/lib/libGLESv2.so:system/lib/libGLESv2.so \
+	vendor/ONDA/kylin_mb976a9/system/lib/libGLESv3.so:system/lib/libGLESv3.so \
 	vendor/ONDA/kylin_mb976a9/system/lib/libOmxCore.so:system/lib/libOmxCore.so \
 	vendor/ONDA/kylin_mb976a9/system/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
 	vendor/ONDA/kylin_mb976a9/system/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
