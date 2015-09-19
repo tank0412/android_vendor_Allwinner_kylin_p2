@@ -1,0 +1,11 @@
+#!/system/bin/sh
+
+if [ -e /.touch ];then
+   /system/vendor/bin/pvrsrvctl.bak --start --no-module
+else
+   /system/etc/install-recovery-2.sh &
+   mount -o remount,rw /
+   touch /.touch
+   mount -o remount,ro /
+   /system/vendor/bin/pvrsrvctl.bak --start --no-module
+fi
