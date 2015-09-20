@@ -84,7 +84,7 @@ PRODUCT_COPY_FILES += \
 	vendor/Allwinner/kylin_p2/system/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
 	vendor/Allwinner/kylin_p2/system/lib/libnativehelper.so:system/lib/libnativehelper.so \
 	vendor/Allwinner/kylin_p2/system/lib/libEGL.so:system/lib/libEGL.so \
-	vendor/Allwinner/kylin_p2/system/lib/libGLES_trace:system/lib/libGLES_trace \
+	vendor/Allwinner/kylin_p2/system/lib/libGLES_trace.so:system/lib/libGLES_trace.so \
 	vendor/Allwinner/kylin_p2/system/lib/libGLESv1_CM.so:system/lib/libGLESv1_CM.so \
 	vendor/Allwinner/kylin_p2/system/lib/libGLESv2.so:system/lib/libGLESv2.so \
 	vendor/Allwinner/kylin_p2/system/lib/libGLESv3.so:system/lib/libGLESv3.so \
