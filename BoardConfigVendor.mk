@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
 	vendor/Allwinner/kylin_p2/system/etc/media_codecs.xml:system/etc/media_codecs.xml \
 	vendor/Allwinner/kylin_p2/system/etc/media_profiles.xml:system/etc/media_profiles.xml \
 	vendor/Allwinner/kylin_p2/system/etc/mkshrc:system/etc/mkshrc \
-	vendor/Allwinner/kylin_p2/system/etc/NOTICE.html.gz:system/etc/NOTICE.html.gz \
 	vendor/Allwinner/kylin_p2/system/etc/phone_volume.conf:system/etc/phone_volume.conf \
 	vendor/Allwinner/kylin_p2/system/etc/powervr.ini:system/etc/powervr.ini 
 #============vendor/Allwinner/kylin_p2/system/etc/bluetooth============
@@ -95,7 +94,6 @@ PRODUCT_COPY_FILES += \
 	vendor/Allwinner/kylin_p2/system/lib/libreference-ril.so:system/lib/libreference-ril.so \
 	vendor/Allwinner/kylin_p2/system/lib/libril.so:system/lib/libril.so \
 	vendor/Allwinner/kylin_p2/system/lib/libril_audio.so:system/lib/libril_audio.so \
-	vendor/Allwinner/kylin_p2/system/lib/librm.so:system/lib/librm.so \
 	vendor/Allwinner/kylin_p2/system/lib/libsmileeyeblink.so:system/lib/libsmileeyeblink.so \
 	vendor/Allwinner/kylin_p2/system/lib/libspeexwrapper_ub.210304060.so:system/lib/libspeexwrapper_ub.210304060.so \
 	vendor/Allwinner/kylin_p2/system/lib/libstagefright.so:system/lib/libstagefright.so \
@@ -197,8 +195,7 @@ PRODUCT_COPY_FILES += \
 
 #============vendor/Allwinner/kylin_p2/system/vendor/lib/drm============
 PRODUCT_COPY_FILES += \
-	vendor/Allwinner/kylin_p2/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \	vendor/Allwinner/kylin_p2/system/vendor/lib/drm/libdrmclearkeyplugin.so:system/vendor/lib/drm/libdrmclearkeyplugin.so 
-
+	vendor/Allwinner/kylin_p2/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so 
 #============vendor/Allwinner/kylin_p2/system/vendor/lib/egl============
 PRODUCT_COPY_FILES += \
 	vendor/Allwinner/kylin_p2/system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so:system/vendor/lib/egl/libEGL_POWERVR_ROGUE.so \
