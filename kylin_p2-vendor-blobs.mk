@@ -12,3 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+LOCAL_PATH := vendor/Allwinner/kylin_p2
+
+PRODUCT_COPY_FILES += \
+	$(call find-copy-subdir-files,*,vendor/Allwinner/kylin_p2/proprietary/system,system)

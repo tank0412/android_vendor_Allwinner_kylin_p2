@@ -12,3 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Pick up overlay for features that depend on non-open-source files
+
+$(call inherit-product, vendor/Allwinner/kylin_p2/kylin_p2-vendor-blobs.mk)
